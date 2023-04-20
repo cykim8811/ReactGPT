@@ -1,1 +1,3 @@
 config.yaml
+projects/
+scripts/__pycache__/
