@@ -25,7 +25,7 @@ Example:
 
 (PageButton)
 - description: A button that can be clicked, disabled, and have text.
-- props: { enabled: true, text: 'Button' }
+- props: { enabled: true, text: "Button" }
 - used in: [Page 1], [Page 2], [Page 3]
 
 (TimeForm)
